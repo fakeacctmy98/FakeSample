@@ -6,6 +6,8 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
+// This is a test
+
 namespace MVC5App
 {
     public class MvcApplication : System.Web.HttpApplication
